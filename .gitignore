@@ -1,0 +1,17 @@
+﻿# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+out/
+bin/
+
+# Logs
+*.log
